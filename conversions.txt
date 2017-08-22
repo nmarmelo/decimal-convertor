@@ -1,0 +1,15 @@
+Decimal Number is       : 5
+Binary Equivalent       : 101
+Octal Equivalent        : 5
+Hexadecimal Equivalent  : 5
+
+Decimal Number is       : 0
+Binary Equivalent       : 0
+Octal Equivalent        : 0
+Hexadecimal Equivalent  : 0
+
+Decimal Number is       : 60
+Binary Equivalent       : 111100
+Octal Equivalent        : 74
+Hexadecimal Equivalent  : 3C
+
